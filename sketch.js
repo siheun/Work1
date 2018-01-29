@@ -38,7 +38,7 @@ function draw() {
   pointLight(255, 255, 255, 0, -200, 0);
   //pointLight(255, 0, 255, 200, 0, 0);
 
-  background(175);
+  background(255);
 
  for (let z = -300 ; z < (height - 300); z += 60){
   for (let x = 150; x < (width - 300) ; x += 60) {
